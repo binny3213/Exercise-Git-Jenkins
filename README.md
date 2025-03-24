@@ -32,6 +32,7 @@ This project demonstrates how to build a **Jenkins CI/CD pipeline** integrated w
  - 📤 Managing artifacts between jobs
 
  - 🧠 Debugging, rerunning, and understanding Jenkins logs & output
+---
 
 ## 📁 Repository Structure
 
@@ -41,7 +42,7 @@ This project demonstrates how to build a **Jenkins CI/CD pipeline** integrated w
 └── README.md       // You’re here!
 ```
 
-<br>
+---
 
 ![Screenshot 2025-03-24 132040](https://github.com/user-attachments/assets/3c5222c0-1556-4c08-b28a-52ce48644559)
 
